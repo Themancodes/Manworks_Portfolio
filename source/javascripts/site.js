@@ -1,3 +1,5 @@
+// This is where it all goes :)
+
 class StickyNavigation {
 	
 	constructor() {
